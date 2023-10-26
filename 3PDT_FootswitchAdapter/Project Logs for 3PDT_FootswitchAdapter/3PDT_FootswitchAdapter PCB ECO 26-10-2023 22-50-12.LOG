@@ -1,0 +1,36 @@
+Added Component: Designator=P?(HDR1X9_1.27)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=S1(SW_FS57003PLT2B2M2QE)
+Added Component: Designator=SJ1(SOLDER_JUMPER_SHORTED)
+Added Pin To Net: NetName=Gnd Pin=P?-8
+Added Pin To Net: NetName=Gnd Pin=S1-8
+Added Net: Name=Gnd
+Added Pin To Net: NetName=JackInput Pin=P?-2
+Added Pin To Net: NetName=JackInput Pin=S1-2
+Added Net: Name=JackInput
+Added Pin To Net: NetName=JackOutput Pin=P?-5
+Added Pin To Net: NetName=JackOutput Pin=S1-5
+Added Net: Name=JackOutput
+Added Pin To Net: NetName=Led1_Cathode Pin=P?-7
+Added Pin To Net: NetName=Led1_Cathode Pin=S1-7
+Added Net: Name=Led1_Cathode
+Added Pin To Net: NetName=Led2_Cathode Pin=P?-9
+Added Pin To Net: NetName=Led2_Cathode Pin=S1-9
+Added Net: Name=Led2_Cathode
+Added Pin To Net: NetName=PedalInput Pin=P?-1
+Added Pin To Net: NetName=PedalInput Pin=S1-1
+Added Net: Name=PedalInput
+Added Pin To Net: NetName=PedalOutput Pin=P?-4
+Added Pin To Net: NetName=PedalOutput Pin=S1-4
+Added Net: Name=PedalOutput
+Added Pin To Net: NetName=PedalShort Pin=P?-3
+Added Pin To Net: NetName=PedalShort Pin=P?-6
+Added Pin To Net: NetName=PedalShort Pin=S1-3
+Added Pin To Net: NetName=PedalShort Pin=S1-6
+Added Pin To Net: NetName=PedalShort Pin=SJ1-1
+Added Pin To Net: NetName=PedalShort Pin=SJ1-1
+Added Pin To Net: NetName=PedalShort Pin=SJ1-2
+Added Net: Name=PedalShort
+Added Class: Name=Sheet1
