@@ -65,6 +65,27 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YBDEXVCI
 
+[Document2]
+DocumentPath=3PDT_FootswitchAdapter.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UYQSFJHX
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for 3PDT_FootswitchAdapter\Design Rule Check - 3PDT_FootswitchAdapter.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
